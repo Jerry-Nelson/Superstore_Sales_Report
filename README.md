@@ -59,4 +59,4 @@ This project analyzes sales and customer performance for a fictional Superstore 
 **Jerry Nelson Cobbinah**  
 Aspiring Data Analyst | Actuarial Science Graduate  
 Tema, Ghana  
-📧 [LinkedIn](#) | 📱 0200136829
+📧 [LinkedIn](https://www.linkedin.com/in/jerry-nelson-cobbinah-60ab911a5/) | 📱 0200136829
