@@ -9,7 +9,7 @@ This project analyzes sales and customer performance for a fictional Superstore 
 ## 📸 Dashboard Previews
 
 ### 🔹 General Overview
-![General Overview](General Overview.png)
+[![General Overview](General Overview.png)](https://github.com/Jerry-Nelson/Superstore_Sales_Report/blob/main/General%20Overview.png?raw=true)
 
 ### 🔹 Market Overview
 ![Market Overview](Market Overview.png)
